@@ -1,4 +1,4 @@
-# AIVA Playground API
+# Example API
 
 ## How to set up local environment:
 ```bash
